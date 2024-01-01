@@ -1,0 +1,66 @@
+.mainDiv{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.childDiv1{
+    padding: 20px;
+    width: 40%;
+}
+
+.childDiv{
+    padding: 20px;
+    width: 40%;
+
+}
+
+button{
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    padding: 5px;
+    width: 130px;
+}
+
+.Container{
+     text-align: center;
+     padding: 50px;
+}
+
+.parentDiv{
+    display: flex;
+}
+
+.box1{
+    width: 50%;
+}
+
+.box2{
+    width: 50%;
+    background-color: lightskyblue;
+    text-align: center;
+}
+
+.main{
+    height:300px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: auto;
+}
+
+.childDiv2{
+    width: 50%;
+    text-align: center;
+}
+
+.childDiv3{
+    width: 50%;
+
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: rgb(123, 177, 210);
+}
